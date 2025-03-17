@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Grace Li (please find my latest resume [here](https://www.linkedin.com/in/grace-li-com/overlay/1741940945089/single-media-viewer/?profileId=ACoAAE-JeboB6uBFdaDeq884oWCjH_QwdU3fA8I))
+- 👋 Hi, I’m Grace Li, please find my latest [Resume](https://www.linkedin.com/in/grace-li-com/overlay/1741940945089/single-media-viewer/?profileId=ACoAAE-JeboB6uBFdaDeq884oWCjH_QwdU3fA8I) here
 
 
 - 🌱 I’m currently learning Java, SQL, React, and Spring Boot.  Currently nearing completion of the Per Scholas Java Fullstack Bootcamp, where I am growing and refining my technical expertise in:
@@ -13,7 +13,8 @@
 - 📫 reach me at graceli9095@gmail.com or https://www.linkedin.com/in/grace-li-com/
 - ⚡ Fun fact: I have been to Thailand, Japan, Philippines, Australia, and Romania.
 
-- 🌱 Currently I am building a comprehensive and scalable full stack application for tracking diet, workouts, and overall fitness journies, while also fostering social connections, using Java, Spring Boot, MySQL and React. Please visit https://github.com/Graceli95/ExerciseTrackerServer if interested to learn more.
+- 🌱 Currently I am building a comprehensive and scalable full stack application for tracking diet, workouts, and overall fitness journies, while also fostering social connections, using Java, Spring Boot, MySQL and React.
+- Please visit https://github.com/Graceli95/ExerciseTrackerServer and check out the project [Vitality Hub Video Demo](https://drive.google.com/file/d/1ZBChajp7u8orKeLjo9P_Vpg5t6_BMF0x/view?usp=sharing) here if interested to learn more 
    * Allows users to schedule workouts and meals, and track calorie intake and burn in order to track their nutrition better and maintain a healthy lifestyle. Also allows users to engage with family and friends through shared experiences
    * Helps users calculate total workout hours over time, tracks the time that users invested in fitness, and to communicates overall growth
    * Implements authentication using Spring Security
