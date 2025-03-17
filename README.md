@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Grace Li
+- 👋 Hi, I’m Grace Li (please find my latest resume [here](https://www.linkedin.com/in/grace-li-com/))
 
 
 - 🌱 I’m currently learning Java, SQL, React, and Spring Boot.  Currently nearing completion of the Per Scholas Java Fullstack Bootcamp, where I am growing and refining my technical expertise in:
