@@ -20,7 +20,6 @@ Interests: Scalable backend systems, AI workflows, multi-agent orchestration, an
 - Please visit https://github.com/Graceli95/ExerciseTrackerServer and check out the project [Vitality Hub Video Demo](https://drive.google.com/file/d/1ZBChajp7u8orKeLjo9P_Vpg5t6_BMF0x/view?usp=sharing) here if interested to learn more 
    * Allows users to schedule workouts and meals, and track calorie intake and burn in order to track their nutrition better and maintain a healthy lifestyle. Also allows users to engage with family and friends through shared experiences
    * Helps users calculate total workout hours over time, tracks the time that users invested in fitness, and to communicates overall growth
-   * Implements authentication using Spring Security
 
 - 🌱 Just a couple of years ago, I was teaching myself English. Today, I am ready to embrace my next challenge: building innovative software solutions and advancing my professional journey. As a first-generation immigrant, my journey has been shaped by curiosity, adaptability, resilience, determination, and a love for continuous learning. Fluent in both Chinese and English, I bring cross-cultural communication skills, adaptability, and technical expertise to collaborative teams. I am excited to learn, grow, and contribute my problem-solving mindset to create meaningful impact. I am eager to expand my network, learn from industry professionals, collaborat with dynamic teams to develop efficient software solutions.
 
