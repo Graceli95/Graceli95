@@ -1,9 +1,12 @@
 - 👋 Hi, I’m Grace Li, please find my latest [Resume](https://www.linkedin.com/in/grace-li-com/overlay/1743802549885/single-media-viewer/?profileId=ACoAAE-JeboB6uBFdaDeq884oWCjH_QwdU3fA8I) here
 
 
-- 🌱 I’m currently learning Java, SQL, React, and Spring Boot.  Currently nearing completion of the Per Scholas Java Fullstack Bootcamp, where I am growing and refining my technical expertise in:
+- 🌱 a Software Engineer building full-stack and AI-enabled applications.
+I recently completed the Per Scholas Java Full Stack Bootcamp and earned advanced AI training through ASU’s Vibe Coding AI Builder Architect Program.
 
-     Spring, Spring MVC Framework, Spring Boot, Java, Hibernate, JPA, Spring Data JPA, JavaScript, SQL, HTML/CSS, Bootstrap, React, RESTful APIs, MySQL, Git, GitHub, Agile Methodology
+Tech: Java, Spring MVC Framework, Spring Boot, React, SQL, Python, FastAPI, LangChain, LangGraph, AWS Bedrock, MySQL, MongoDB, Docker, Git, RESTful APIs, Agile Methodology
+
+Interests: Scalable backend systems, AI workflows, multi-agent orchestration, and workflow automation
 
 - 👀 In 5 years I want to become a highly skilled programmer, make a significant impact in this industry, grow my responsibilities, lead complex projects, contribute to open source, learn how to drive growth and success at my company, give back to my community, and develop projects that solve real world problems.
 
@@ -11,7 +14,7 @@
 - 🥇 I commit to building my life in a meaningful way. As a first-generation immigrant, I desire to be a professional in Tech, develop and strengthen impactful skills in my career, work across multiple domains while developing expertise in cutting-edge technology and create a loving family, while also giving back to my family in China to support those who helped me reach where I am today.
 
 - 📫 reach me at graceli9095@gmail.com or https://www.linkedin.com/in/grace-li-com/
-- ⚡ Fun fact: I have been to Thailand, Japan, Philippines, Australia, and Romania.
+- ⚡ Fun fact: I have been to Thailand, Japan, Philippines, Australia, and Romania. I once moved to Australia for a gap year before I even knew how to speak English, which really shaped my adaptability. I also enjoy making ceramics and exploring new places. I recently traveled through the UK and China.
 
 - 🌱 Currently I am building a comprehensive and scalable full stack application for tracking diet, workouts, and overall fitness journies, while also fostering social connections, using Java, Spring Boot, MySQL and React.
 - Please visit https://github.com/Graceli95/ExerciseTrackerServer and check out the project [Vitality Hub Video Demo](https://drive.google.com/file/d/1ZBChajp7u8orKeLjo9P_Vpg5t6_BMF0x/view?usp=sharing) here if interested to learn more 
